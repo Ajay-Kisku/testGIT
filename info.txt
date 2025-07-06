@@ -4,9 +4,13 @@ Schedule
 Calender - Holidays
 Notifications
 Books, softwares etc.
+PYQs - Questions and Answers
 
 
 Here we go with a text file.
 What are you doing.
 
 Next we will code something in C or python.
+
+
+I like - https://www.youtube.com/@CoreDumpped/videos
