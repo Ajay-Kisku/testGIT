@@ -1,0 +1,10 @@
+
+#just storing output things
+output/
+*log
+
+.env
+.env.*
+
+
+*.exe
