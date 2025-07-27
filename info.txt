@@ -14,3 +14,6 @@ Next we will code something in C or python.
 
 
 I like - https://www.youtube.com/@CoreDumpped/videos
+
+
+Check for webhook!
